@@ -5,3 +5,5 @@ NPM : 2306245056
 Kelas : PBP C
 
 Hobi: Musik
+
+Jurusan : Ilmu Sistem Informasi Komputer
